@@ -1,3 +1,4 @@
+=begin
 GEM
   remote: https://rubygems.org/
   specs:
@@ -193,3 +194,4 @@ DEPENDENCIES
   therubyracer
   uglifier (= 1.2.3)
   will_paginate (= 3.0.1)
+=end
